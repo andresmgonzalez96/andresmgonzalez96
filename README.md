@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**andresmgonzalez96/andresmgonzalez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Andres Gonzalez
 
 Senior QA Automation Engineer | SDET
@@ -26,4 +21,3 @@ AI-assisted QA · MCPs
 - API automation
 - CI/CD quality engineering
 - Cloud-based testing
--->
